@@ -95,6 +95,7 @@
     <Content Include="ayuda.aspx" />
     <Content Include="github.aspx" />
     <Content Include="Index.aspx" />
+    <Content Include="stylos\style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
